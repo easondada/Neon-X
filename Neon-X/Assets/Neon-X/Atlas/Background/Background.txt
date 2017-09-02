@@ -1,0 +1,28 @@
+{"frames": {
+
+"126141-102.jpg":
+{
+	"frame": {"x":10,"y":10,"w":2160,"h":1920},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2160,"h":1920},
+	"sourceSize": {"w":2160,"h":1920}
+},
+"bg.jpg":
+{
+	"frame": {"x":10,"y":1930,"w":2160,"h":1920},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2160,"h":1920},
+	"sourceSize": {"w":2160,"h":1920}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Background.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3154273318380993c948f949148b694b:d400b830e09f640b5d0cabfb8e18c30f:644c93155aa8019bdbed7b6e31c0849d$"
+}
+}
